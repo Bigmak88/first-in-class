@@ -1,2 +1,2 @@
 # first-in-class
-My first repo
+LJ First Repo Changed Docs are important
