@@ -1,2 +1,4 @@
 # first-in-class
-LJ First Repo Changed Docs are important
+First Repo 
+
+<b>Docs are important</b>
