@@ -1,2 +1,4 @@
 # first-in-class
-My first repo
+First Repo 
+
+<b>Docs are important</b>
